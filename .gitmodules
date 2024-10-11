@@ -1,0 +1,6 @@
+[submodule "meal-planner-api"]
+	path = meal-planner-api
+	url = https://github.com/cc5tudio/meal-planner-api.git
+[submodule "meal-planner-app"]
+	path = meal-planner-app
+	url = https://github.com/cc5tudio/meal-planner-app.git
